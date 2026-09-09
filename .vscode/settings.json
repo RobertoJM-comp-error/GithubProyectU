@@ -1,0 +1,14 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/*.crswap": true,
+        "**/lab_2_Cir.aux": true,
+        "**/lab_2_Cir.log": true,
+        "**/lab_2_Cir.gz": true,
+        "**/lab_2_Cir.out": true
+    }
+}
